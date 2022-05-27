@@ -20,6 +20,7 @@
 	allowElytra = true
 	#
 	# Walking speed 
-	#Range: 0.0010000000474974513 ~ 1.0
-	walkingSpeed = 0.8500000238418579
+
+	#Range: 0.0210000000474974513 ~ 1.0
+	walkingSpeed = 2.8500000238418579
 
